@@ -1,0 +1,33 @@
+.jumbotron {
+    text-align: center;
+    background: transparent;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    background-color: #434343;
+    color: #6260e0;
+}
+
+.container {
+    margin-top: 4em;
+}
+
+head {
+    text-align: center;
+    margin-left: 2em;
+}
+
+caption {
+    color: #19e75e;
+}
+
+input,
+label,
+select {
+    padding: 0.6em;
+}
